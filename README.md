@@ -1,4 +1,4 @@
-# CLEF 2026 Web Page
+# CLEF 2028 Web Page
 
 For guidelines on how to edit content, see [README-content.md](README-content.md)!
 
